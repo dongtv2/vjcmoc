@@ -1,0 +1,22 @@
+credentials:
+  usernames:
+    moc:
+      email: moc@vietjetair.com
+      name: MOC
+      password: Saigon@123
+      role: MOC-CORR
+      group: MOC
+    com:
+      email: com@vietjetair.com
+      name: COM
+      password: ComSGN@123
+      role: COM
+      group: COM
+
+cookie:
+  expiry_days: 30
+  key: zZJHmdP0xELBp11y7V_jgZYRXTz0nz3yMzf-O3Eeydc
+  name: auth_cookie
+
+pre-authorized:
+  emails: []
